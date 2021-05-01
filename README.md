@@ -1,3 +1,4 @@
-# Tip-Calculator
+# Tip Calculator with JS
 
-## https://codepen.io/ummuhankeles/pen/mdOXqEB
+### Codepen Link
+[Codepen](https://codepen.io/ummuhankeles/pen/mdOXqEB)
